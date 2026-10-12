@@ -1,10 +1,11 @@
-# Scorelume
+# Music Desk
 
-Official installers for macOS, Windows and Linux.
+Official installers and signed update manifests for Music Desk by Fenix Software Labs.
 
-Download packages from [Releases](https://github.com/SantoBaldassarre/Scorelume-Releases/releases).
-Scorelume requires a Fenix license and device activation. A public installer does not grant a license to use, redistribute or modify the software.
+The application source repository is private. Downloads and updates are managed through Fenix licensing; installer files are delivered by GitHub, without VPS storage.
 
-This repository contains distribution metadata only. Application source code and build workflows remain private. Installer integrity is verified with signed release manifests and SHA-256 checksums.
+[Download the latest release](https://github.com/SantoBaldassarre/Music-Desk-Releases/releases/latest)
 
-iOS distribution uses App Store/TestFlight.
+Older releases preserve their original package filenames. A separate [legacy updater bridge](https://github.com/SantoBaldassarre/Scorelume-Releases) keeps existing installations compatible.
+
+[Product privacy notice](https://fenixsoftwarelabs.com/music-desk/privacy)
